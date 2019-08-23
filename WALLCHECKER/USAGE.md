@@ -8,7 +8,7 @@
 The **Wall Checker** will highlight any walls that are drawn to non-ortho angles, or non-buildable dimensions. 
 However, there are settings that can be adjusted to change the tolerance of the tool, or turn off the visual feedback entirely.
 
-There are **3** main components of the settings dialog which will be documented through this guide, in order of importance.
+There are **4** main components of the settings dialog which will be documented through this guide, in order of importance.
 
 1. **Properties/Classifications**
 2. **On/Off**
