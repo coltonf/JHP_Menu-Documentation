@@ -1,2 +1,16 @@
-# JHP_Menu-Documentation
-Public repo for sharing helpful documentation/tutorial pages for the JHP_Menu plugin.
+# JHP Menu plugin
+#### Documentation | Examples | Tutorials
+
+</br>
+
+### Index
+- Wall Checker
+    - [Setup](WALLCHECKER/SETUP.md)
+    - [Usage](WALLCHECKER/SETUP.md)
+    
+</br>
+
+![WallChecker](WALLCHECKER/IMAGES/FeedbackExample.gif)
+
+
+
