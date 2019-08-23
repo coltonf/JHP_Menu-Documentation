@@ -1,4 +1,4 @@
-# [JHP Menu plugin](./README.md)
+# [JHP Menu plugin](../README.md)
 #### Documentation | Examples | Tutorials
 
 ## Wall Checker Setup
@@ -45,4 +45,6 @@ Setup and Reserve Walls:
 ---
 
 Setup is now complete. See [Usage](USAGE.md) for a guide on the Wall Checker Settings dialog and general usage tips.
+
+[Click here to return to the home page.](../README.md)
 

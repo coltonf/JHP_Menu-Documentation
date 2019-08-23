@@ -1,4 +1,4 @@
-# [JHP Menu plugin](./README.md)
+# [JHP Menu plugin](../README.md)
 #### Documentation | Examples | Tutorials
 
 ## Wall Checker Usage
@@ -103,7 +103,7 @@ The **second** button, designated by a red minus icon, will remove the currently
 
 ## This completes the current set of settings available for the wall checker.
 
-[Click here to return to the home page.](./README.md)
+[Click here to return to the home page.](../README.md)
 
 #### Example of the visual feedback provided by the wall checker tool:
 
