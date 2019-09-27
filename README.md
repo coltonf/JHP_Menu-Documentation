@@ -6,7 +6,7 @@
 ### Index
 - Wall Checker
     - [Setup](WALLCHECKER/SETUP.md)
-    - [Usage](WALLCHECKER/SETUP.md)
+    - [Usage](WALLCHECKER/USAGE.md)
     
 </br>
 
